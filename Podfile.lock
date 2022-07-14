@@ -1,0 +1,32 @@
+PODS:
+  - Alamofire (5.0.0-rc.2)
+  - AlamofireObjectMapper (6.2.0):
+    - Alamofire (= 5.0.0-rc.2)
+    - ObjectMapper (~> 3.5.1)
+  - CorePlot (2.3)
+  - IHProgressHUD (0.1.4)
+  - ObjectMapper (3.5.3)
+
+DEPENDENCIES:
+  - AlamofireObjectMapper
+  - CorePlot
+  - IHProgressHUD
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - AlamofireObjectMapper
+    - CorePlot
+    - IHProgressHUD
+    - ObjectMapper
+
+SPEC CHECKSUMS:
+  Alamofire: f9450d3c7f6bea2ad62e7a541c3e9b186c7991d6
+  AlamofireObjectMapper: 74d1440c92c42bbcc2b5f4dc81654ac095ec669f
+  CorePlot: 6bfe6d30d215beec3cfd18ee43e434620119bc1e
+  IHProgressHUD: a01846bfbb581c761c79747c67b08387c3bdfae3
+  ObjectMapper: 97111c97e054a6ee25917662106689f0b4127b37
+
+PODFILE CHECKSUM: 81167a2bc6a5e260fc8514c7708a73ae7a69b6bd
+
+COCOAPODS: 1.11.3

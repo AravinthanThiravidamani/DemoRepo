@@ -1,0 +1,6 @@
+${PODS_ROOT}/Target Support Files/Pods-DemoPlot2-DemoPlot2UITests/Pods-DemoPlot2-DemoPlot2UITests-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Alamofire/Alamofire.framework
+${BUILT_PRODUCTS_DIR}/AlamofireObjectMapper/AlamofireObjectMapper.framework
+${BUILT_PRODUCTS_DIR}/CorePlot/CorePlot.framework
+${BUILT_PRODUCTS_DIR}/IHProgressHUD/IHProgressHUD.framework
+${BUILT_PRODUCTS_DIR}/ObjectMapper/ObjectMapper.framework

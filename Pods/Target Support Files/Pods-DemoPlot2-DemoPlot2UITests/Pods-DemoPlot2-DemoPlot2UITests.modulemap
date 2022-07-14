@@ -1,0 +1,6 @@
+framework module Pods_DemoPlot2_DemoPlot2UITests {
+  umbrella header "Pods-DemoPlot2-DemoPlot2UITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
